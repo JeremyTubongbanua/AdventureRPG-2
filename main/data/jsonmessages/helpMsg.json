@@ -1,0 +1,49 @@
+{
+	"embed": {
+		"description": "Gear up and go on adventures with friends. Level up your profile and get some sick loot!\n[] = optional args, <> = required args",
+		"color": 12392484,
+		"footer": {
+			"text": ".help"
+		},
+		"author": {
+			"name": "AdventureRPG Bot Commands"
+		},
+		"fields": [
+			{
+				"name": ".help",
+				"value": "View this message",
+				"inline": true
+			},
+			{
+				"name": ".register <profile_name>",
+				"value": "Register a new profile with a name.",
+				"inline": true
+			},
+			{
+				"name": ".profile [@user]",
+				"value": "View your own or another user's profile",
+				"inline": true
+			},
+			{
+				"name": ".party help",
+				"value": "View commands for party",
+				"inline": true
+			},
+			{
+				"name": ".inventory [@user]",
+				"value": "View an inventory",
+				"inline": true
+			},
+			{
+				"name": ".item <slot>",
+				"value": "View more information on an item in your inventory.",
+				"inline": true
+			},
+			{
+				"name": ".adventure",
+				"value": "Adventure controls",
+				"inline": true
+			}
+		]
+	}
+}

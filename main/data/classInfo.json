@@ -1,0 +1,14 @@
+{
+	"knight": {
+		"id": 0,
+		"avatar_url": "https://imgur.com/BH4H3eB"
+	},
+	"tank": {
+		"id": 1,
+		"avatar_url": "https://imgur.com/DK104wa"
+	},
+	"archer": {
+		"id": 2,
+		"avatar_url": "https://imgur.com/2XErZhR"
+	}
+}
